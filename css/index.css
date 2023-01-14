@@ -1,0 +1,48 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(/Images/header-pattern.webp);
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.imgblock {
+    width: 300px;
+}
+
+.brushes-title {
+    background-color: mediumspringgreen;
+}
+
+.frames-title {
+    background-color: lightcoral;
+}
+
+.paint-title {
+    background-color: skyblue;
+}
+
+p {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0px;
+}
+
+.blue-cost {
+    color: blue;
+    font-weight: bold;
+}
